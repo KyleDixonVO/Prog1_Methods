@@ -45,7 +45,7 @@ namespace IntroProgramming_Methods
                 xp = xp + 50;
 
                 ShowHUD();
-
+                Console.WriteLine("Compiler Test");
                 Console.ReadKey(true);
             }
         
