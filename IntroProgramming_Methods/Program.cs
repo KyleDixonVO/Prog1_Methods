@@ -9,7 +9,8 @@ namespace IntroProgramming_Methods
     class Program
     {
     
-        
+            //Had to copy paste code from old project, old repo was removing my build exe when trying to debug.    
+
             static int score;
             static string name;
             static int xp;
